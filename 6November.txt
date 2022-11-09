@@ -8,7 +8,7 @@ Question 3
 https://leetcode.com/problems/sort-colors/
 
 Question 4
-https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+https://leetcode.com/problems/missing-number/
 
 Question 5
 https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
