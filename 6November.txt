@@ -3,3 +3,18 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 Question 2
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+Question 3
+https://leetcode.com/problems/sort-colors/
+
+Question 4
+https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+
+Question 5
+https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
+
+Question 6
+https://leetcode.com/problems/majority-element/
+
+Question 7
+https://leetcode.com/problems/set-matrix-zeroes/
