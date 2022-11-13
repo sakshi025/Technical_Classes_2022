@@ -1,0 +1,20 @@
+Question 1
+https://leetcode.com/problems/check-distances-between-same-letters/
+
+Question 2
+https://leetcode.com/problems/merge-similar-items/
+
+Question 3
+https://leetcode.com/problems/valid-anagram/
+
+Question 4
+https://leetcode.com/problems/missing-number/
+
+Question 5
+https://leetcode.com/problems/sort-colors/
+
+Question 6
+https://leetcode.com/problems/binary-search/
+
+Question 7
+https://leetcode.com/problems/merge-sorted-array/
