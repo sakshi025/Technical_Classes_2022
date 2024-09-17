@@ -1,0 +1,10 @@
+STL : https://youtu.be/PZogbfU4X5E
+
+Data Structure and Algorithms : https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG
+
+Practice Question set data structure 
+  https://practice.geeksforgeeks.org/problems/set-operations/1?page=1&category[]=set&sortBy=submissions
+  https://practice.geeksforgeeks.org/problems/maximum-product-of-increasing-subsequence-of-size-32027/1?page=1&category[]=set&sortBy=submissions
+  https://practice.geeksforgeeks.org/problems/jays-apples2724/1?page=1&category[]=set&sortBy=submissions
+  https://practice.geeksforgeeks.org/problems/sum-the-common-elements/1?page=1&category[]=set&sortBy=submissions
+
